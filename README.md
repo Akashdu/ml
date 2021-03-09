@@ -12,6 +12,3 @@ All you need to do to enable in git this:
 
 To know more about us [click here](https://CloudxLab.com/)
 
-### NOTE ABOUT THE Notebook Diff:
-
-Usually the jupyter notebooks are unfriendly to diff. So, we have installed nbdime(See https://nbdime.readthedocs.io/en/latest/)
